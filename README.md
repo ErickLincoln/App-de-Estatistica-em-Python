@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Read.me App-de-Estatistica-em-Python</title>
+	# Read.me App-de-Estatistica-em-Python
 </head>
 <body>
 	<h1>App de resolução do primeiro dia de desafio da HackerRank escrito em Python</h1>
 	<p>Este script é um programa simples que lê a entrada do usuário e calcula a média, mediana e moda das arrays fornecidas.</p>
 	
-	<h2>Como utilizar</h2>
+<h2>Como utilizar</h2>
 <ol>
 	<li>Baixe o script Python para o seu computador.</li>
 	<li>Abra o terminal e navegue até o diretório onde o arquivo está salvo.</li>
@@ -39,3 +39,5 @@ Moda: Nenhum valor se repete na array</pre>
 <p>Este é um script simples que pode ser facilmente adaptado para cálculos mais complexos. Sinta-se livre para modificá-lo de acordo com suas necessidades.</p>
 </body>
 </html>
+
+### Att. Lincoln
