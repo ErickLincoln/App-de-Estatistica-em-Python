@@ -1,43 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-	# Read.me App-de-Estatistica-em-Python
+	# Read.me - Demonstração de proficiência - HackerRank
 </head>
 <body>
-	<h1>App de resolução do primeiro dia de desafio da HackerRank escrito em Python</h1>
-	<p>Este script é um programa simples que lê a entrada do usuário e calcula a média, mediana e moda das arrays fornecidas.</p>
-	
-<h2>Como utilizar</h2>
+	<h1>Sobre a HackerRank</h1>
+	<p>A HackerRank é uma plataforma de aprendizado e recrutamento focada em programação e habilidades técnicas. Fundada em 2009, a empresa se tornou uma das principais referências em desafios de programação e algoritmos, oferecendo uma ampla gama de recursos para estudantes, programadores e empresas.</p>
+<h2>Por que escolhi a HackerRank</h2>
+<p>Eu escolhi a HackerRank para demonstrar minha proficiência em programação por diversos motivos:</p>
 <ol>
-	<li>Baixe o script Python para o seu computador.</li>
-	<li>Abra o terminal e navegue até o diretório onde o arquivo está salvo.</li>
-	<li>Execute o script digitando o seguinte comando: <code>python script.py</code>.</li>
-	<li>Digite os valores da array separados por espaço e pressione Enter.</li>
-	<li>O script irá calcular e exibir a média, mediana e moda dos valores da array fornecida.</li>
+	<li>Variedade de desafios: a plataforma oferece uma grande variedade de desafios de programação em diferentes níveis de dificuldade, permitindo que os usuários possam praticar e melhorar suas habilidades.</li>
+	<li>Qualidade dos desafios: os desafios da HackerRank são cuidadosamente criados e testados para garantir que sejam relevantes e desafiadores para programadores de todos os níveis.</li>
+	<li>Reputação: a HackerRank é amplamente reconhecida como uma das principais plataformas de aprendizado e recrutamento em programação, o que a torna uma escolha confiável para demonstrar minhas habilidades.</li>
+	<li>Aprendizado: a plataforma não apenas oferece desafios de programação, mas também recursos educacionais, como tutoriais, webinars e artigos, que ajudam os usuários a aprender e aprimorar suas habilidades.</li>
 </ol>
-
-<h2>Funcionamento do script</h2>
-<ol>
-	<li>O script começa lendo a entrada do usuário.</li>
-	<li>Em seguida, calcula a média dos valores da array através da soma de todos os elementos, dividido pelo total de elementos.</li>
-	<li>A array é referenciada em ordem crescente.</li>
-	<li>O script calcula a mediana da array, localizando os valores do meio tendo o número de elementos.</li>
-	<li>A moda da array é calculada, identificando a frequência dos elementos mais frequentes localizados.</li>
-	<li>Por fim, o script imprime a média, mediana e moda calculados para a array fornecida.</li>
-</ol>
-
-<h2>Exemplo de uso</h2>
-<p>Suponha que o usuário tenha digitado a seguinte entrada:</p>
-<pre>1 2 3 4 5</pre>
-
-<p>O script irá calcular a média, mediana e moda da array fornecida e imprimirá o seguinte resultado:</p>
-<pre>Média: 3.0
-Mediana: 3
-Moda: Nenhum valor se repete na array</pre>
-
-<h2>Considerações finais</h2>
-<p>Este é um script simples que pode ser facilmente adaptado para cálculos mais complexos. Sinta-se livre para modificá-lo de acordo com suas necessidades.</p>
+<h2>Utilização da plataforma</h2>
+<p>Para utilizar a HackerRank, basta criar uma conta gratuita no site e começar a explorar os desafios disponíveis. É possível escolher desafios em diferentes categorias, como algoritmos, estruturas de dados, matemática e programação funcional. Ao resolver os desafios, o usuário pode ganhar pontos e subir no ranking global da plataforma.</p>
+<p>Além disso, a plataforma oferece recursos adicionais para empresas que desejam utilizar a HackerRank para recrutar programadores. As empresas podem criar seus próprios desafios personalizados e utilizar a plataforma para testar as habilidades dos candidatos de forma objetiva e eficiente.</p>
+<h2>Conclusão</h2>
+<p>A HackerRank é uma plataforma de aprendizado e recrutamento de programadores de alta qualidade, que oferece uma ampla variedade de recursos para estudantes, programadores e empresas. Escolhi a HackerRank para demonstrar minha proficiência em programação por sua reputação, qualidade dos desafios e recursos educacionais, e acredito que a plataforma é uma escolha confiável para quem busca aprimorar suas habilidades em programação.</p>
 </body>
 </html>
-
-### Att. Lincoln
+Att. Lincoln
