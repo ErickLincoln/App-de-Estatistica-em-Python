@@ -4,7 +4,7 @@
 	# Read.me - Demonstração de proficiência - HackerRank
 </head>
 <body>
-	<h1>Sobre a HackerRank</h1>
+	<h1>Sobre a <a href="https://www.hackerrank.com/" title="HackerRank">HackerRank</a> </h1>
 	<p>A HackerRank é uma plataforma de aprendizado e recrutamento focada em programação e habilidades técnicas. Fundada em 2009, a empresa se tornou uma das principais referências em desafios de programação e algoritmos, oferecendo uma ampla gama de recursos para estudantes, programadores e empresas.</p>
 <h2>Por que escolhi a HackerRank</h2>
 <p>Eu escolhi a HackerRank para demonstrar minha proficiência em programação por diversos motivos:</p>
